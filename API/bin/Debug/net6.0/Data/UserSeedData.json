@@ -1,0 +1,20 @@
+[
+    {
+        "UserName": "Lisa",
+        "Gender": "female",
+        "DateOfBirth": "1956-07-22",
+        "KnownAs": "Lisa",
+        "Created": "2020-06-24",
+        "LastActive": "2020-06-21",
+        "Introduction": "Sunt esse aliqua ullamco in incididunt consequat commodo. Nisi ad esse elit ipsum commodo fugiat est ad. Incididunt nostrud incididunt nostrud sit excepteur occaecat.\r\n",
+        "Interests": "Sit sit incididunt proident velit.",
+        "City": "Greenbush",
+        "Country": "Martinique",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/54.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+]
